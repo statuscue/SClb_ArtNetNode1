@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SClb_ArtNetNode1", "SClb_ArtNetNode1.vcxitems", "{12C6CFAF-DE00-4668-BCCA-B4366CD0D356}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CB8A06-A69D-4332-8058-4D819A8E8F37}
+	EndGlobalSection
+EndGlobal
